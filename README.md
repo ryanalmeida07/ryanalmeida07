@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Olá, Eu sou o Ryan! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Ryan Almeida! 👨‍💻</h1>
+<h2 align="center">🌱 Welcome to my GitHub a place where I share my projects, ideas, and what I'm learning along the way.</h2>
 
 <p align="center">
   Desenvolvedor em formação focado em <strong>C#</strong>, <strong>.NET</strong> e <strong>Blazor</strong><br>
