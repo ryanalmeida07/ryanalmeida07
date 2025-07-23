@@ -41,5 +41,10 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanalmeida07&layout=compact&theme=radical"/>
 </p>
 
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/ryanalmeida07/ryanalmeida07/blob/output/dist/github-contribution-grid-snake.svg)
+
+
 
 
