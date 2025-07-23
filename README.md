@@ -43,7 +43,8 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/ryanalmeida07/ryanalmeida07/blob/output/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ryanalmeida07/ryanalmeida07/output/dist/github-contribution-grid-snake.svg)
+
 
 
 
